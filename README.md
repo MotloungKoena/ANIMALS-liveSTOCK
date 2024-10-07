@@ -10,6 +10,6 @@ Contact page and animal price listing features included.
 Technologies:
 ASP.NET Core MVC for server-side logic and routing.
 Entity Framework Core for database interactions.
-Bootstrap 4/5 for responsive layout and design.
+Bootstrap 5 for responsive layout and design.
 Font Awesome for icons and UI elements.
 SQL Server for database management.
