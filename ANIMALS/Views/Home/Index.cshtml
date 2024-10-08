@@ -1,0 +1,97 @@
+﻿@model IEnumerable<Animal>
+@{
+    ViewBag.Title = "Home Page";
+}
+<div class="jumbotron text-center bg-primary text-white py-5" id="PageHeader">
+    <h1 class="display-4 font-weight-bold">LiveSTOCK</h1>
+    <p class="lead text-uppercase">Be kind to animals!!!</p>
+</div>
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show mt-3" role="alert">
+        @TempData["Message"]
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+
+
+<section class="container my-5">
+    <h3 class="text-center text-secondary mb-4">Animals</h3>
+    <div id="Animals" class="bg-light p-4 rounded shadow-sm">
+        <p class="text-justify">
+            Animals are a major group of organisms, classified as the kingdom
+            Animalia or Metazoa. In general, they are multicellular, capable of locomotion
+            and responsive to their environment, and feed by consuming other organisms.
+        </p>
+
+        <h5 class="text-info">What are the uses of animals?</h5>
+        <ul class="list-group mb-4">
+            <li class="list-group-item"><i class="fas fa-hand-holding-water me-2"></i>Wool and hair for clothing, ropes, and tents.</li>
+            <li class="list-group-item"><i class="fas fa-skin me-2"></i>Hides and skin for leather.</li>
+            <li class="list-group-item"><i class="fas fa-drumstick-bite me-2"></i>Meat, milk, and eggs.</li>
+            <li class="list-group-item"><i class="fas fa-bone me-2"></i>Bones, hooves, and horn for a variety of uses.</li>
+        </ul>
+
+        <h5 class="text-info">Animals with the Highest Prices</h5>
+        <p class="mb-4">
+            @foreach (var animal in Model.OrderByDescending(a => a.Price).Take(3))
+            {
+                <ul class="list-unstyled">
+                    <li>
+                        <i class="fas fa-arrow-up text-success"></i>
+                        <a asp-action="ViewAnimal" asp-controller="Home" asp-route-id="@animal.Id" class="text-decoration-none text-dark">
+                            @animal.Name
+                        </a> is worth <span class="font-weight-bold">@animal.Price.ToString("C")</span>
+                    </li>
+                </ul>
+            }
+        </p>
+
+        <div class="text-right">
+            <a asp-controller="Home" asp-action="ViewAll" class="btn btn-primary btn-lg shadow">
+                See More Animals &rArr;
+            </a>
+        </div>
+    </div>
+</section>
+
+<style>
+    .jumbotron {
+        background-color: #007bff;
+        color: #ffffff;
+    }
+
+    h3, h5 {
+        font-weight: 600;
+    }
+
+    ul.list-group li {
+        background-color: #f8f9fa;
+        border: 0;
+    }
+
+    .shadow {
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #004085;
+    }
+
+    p {
+        font-size: 1rem;
+        line-height: 1.6;
+    }
+
+    .container {
+        max-width: 800px;
+    }
+</style>

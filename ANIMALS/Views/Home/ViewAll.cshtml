@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Animal>
+@{
+    ViewBag.Title = "View All Animals";
+}
+<h3 class="text-center mt-5 text-primary">List of Animals</h3>
+
+<div class="container my-5">
+    <div class="row">
+        @foreach (var animal in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm h-100">
+                    <div class="card-body">
+                        <h5 class="card-title text-info">
+                            <a asp-controller="Home" asp-action="ViewAnimal" asp-route-id="@animal.Id" class="text-decoration-none">@animal.Name</a>
+                        </h5>
+                        <p class="card-text">
+                            <strong>Selling Price:</strong> @animal.Price.ToString("C")
+                        </p>
+                    </div>
+                    <div class="card-footer bg-white text-center">
+                        <a asp-controller="Home" asp-action="ViewAnimal" asp-route-id="@animal.Id" class="btn btn-outline-primary btn-sm">View Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="mt-4 text-center font-weight-bold">
+        Total Number of Animals: @Model.Count()
+    </div>
+
+    <div class="text-right mt-3">
+        <a class="btn btn-dark" asp-controller="Home" asp-action="Index">Go Back &rArr;</a>
+    </div>
+</div>
+
+<style>
+    h3 {
+        font-weight: 600;
+    }
+
+    .card {
+        border: 1px solid #f0f0f0;
+        border-radius: 10px;
+    }
+
+    .card-title {
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .card-text {
+        font-size: 1rem;
+    }
+
+    .card-footer {
+        border-top: none;
+    }
+
+    .btn-outline-primary {
+        color: #007bff;
+        border-color: #007bff;
+    }
+
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+
+    .container {
+        max-width: 1100px;
+    }
+
+    .text-right {
+        text-align: right;
+    }
+</style>

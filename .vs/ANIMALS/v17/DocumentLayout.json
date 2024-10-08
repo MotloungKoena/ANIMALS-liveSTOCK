@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\views\\home\\addanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\views\\home\\addanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\migrations\\20241008031818_appmigratin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\migrations\\20241008031818_appmigratin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\data\\animalsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\data\\animalsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\data\\animalsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\data\\animalsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\data\\ianimalsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\data\\ianimalsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\views\\home\\viewanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\views\\home\\viewanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\animals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\animals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\views\\home\\viewall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\views\\home\\viewall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|c:\\users\\lacoste\\desktop\\animals\\animals\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B288FAC9-813E-49A7-8E60-BE4550658D56}|ANIMALS\\ANIMALS.csproj|solutionrelative:animals\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnimalsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Data\\AnimalsDbContext.cs",
+              "RelativeDocumentMoniker": "ANIMALS\\Data\\AnimalsDbContext.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Data\\AnimalsDbContext.cs",
+              "RelativeToolTip": "ANIMALS\\Data\\AnimalsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:39:35.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "ANIMALS\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Data\\SeedData.cs",
+              "RelativeToolTip": "ANIMALS\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:42:19.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddAnimal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Home\\AddAnimal.cshtml",
+              "RelativeDocumentMoniker": "ANIMALS\\Views\\Home\\AddAnimal.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Home\\AddAnimal.cshtml",
+              "RelativeToolTip": "ANIMALS\\Views\\Home\\AddAnimal.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T02:51:12.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ANIMALS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ANIMALS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T02:54:12.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ANIMALS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ANIMALS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T03:03:08.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ANIMALS\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ANIMALS\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T02:52:54.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ANIMALS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ANIMALS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:37:40.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAnimalsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Data\\IAnimalsRepo.cs",
+              "RelativeDocumentMoniker": "ANIMALS\\Data\\IAnimalsRepo.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Data\\IAnimalsRepo.cs",
+              "RelativeToolTip": "ANIMALS\\Data\\IAnimalsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:41:43.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Startup.cs",
+              "RelativeDocumentMoniker": "ANIMALS\\Startup.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Startup.cs",
+              "RelativeToolTip": "ANIMALS\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:33:44.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241008031818_AppMigratin.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Migrations\\20241008031818_AppMigratin.cs",
+              "RelativeDocumentMoniker": "ANIMALS\\Migrations\\20241008031818_AppMigratin.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Migrations\\20241008031818_AppMigratin.cs",
+              "RelativeToolTip": "ANIMALS\\Migrations\\20241008031818_AppMigratin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:18:18.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimalsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Data\\AnimalsRepo.cs",
+              "RelativeDocumentMoniker": "ANIMALS\\Data\\AnimalsRepo.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Data\\AnimalsRepo.cs",
+              "RelativeToolTip": "ANIMALS\\Data\\AnimalsRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:40:38.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Program.cs",
+              "RelativeDocumentMoniker": "ANIMALS\\Program.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Program.cs",
+              "RelativeToolTip": "ANIMALS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:35:07.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\appsettings.json",
+              "RelativeDocumentMoniker": "ANIMALS\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\appsettings.json",
+              "RelativeToolTip": "ANIMALS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T02:36:08.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\libman.json",
+              "RelativeDocumentMoniker": "ANIMALS\\libman.json",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\libman.json",
+              "RelativeToolTip": "ANIMALS\\libman.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T03:06:17.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewAnimal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Home\\ViewAnimal.cshtml",
+              "RelativeDocumentMoniker": "ANIMALS\\Views\\Home\\ViewAnimal.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Home\\ViewAnimal.cshtml",
+              "RelativeToolTip": "ANIMALS\\Views\\Home\\ViewAnimal.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T03:01:10.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ANIMALS",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\ANIMALS.csproj",
+              "RelativeDocumentMoniker": "ANIMALS\\ANIMALS.csproj",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\ANIMALS.csproj",
+              "RelativeToolTip": "ANIMALS\\ANIMALS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T02:32:57.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ANIMALS\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ANIMALS\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T03:04:20.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ANIMALS\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ANIMALS\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T03:04:18.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Home\\ViewAll.cshtml",
+              "RelativeDocumentMoniker": "ANIMALS\\Views\\Home\\ViewAll.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Views\\Home\\ViewAll.cshtml",
+              "RelativeToolTip": "ANIMALS\\Views\\Home\\ViewAll.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T02:59:57.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "ANIMALS\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\ANIMALS\\ANIMALS\\Models\\Animal.cs",
+              "RelativeToolTip": "ANIMALS\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:49:14.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

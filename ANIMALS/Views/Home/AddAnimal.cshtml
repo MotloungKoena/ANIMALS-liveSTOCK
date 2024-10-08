@@ -1,0 +1,86 @@
+﻿@model Animal
+
+@{
+    ViewBag.Title = "Add Animal";
+}
+
+<h3 class="text-center mt-5 text-primary">Add a New Animal</h3>
+<div class="container my-5 py-4 bg-white shadow-lg rounded">
+    <form asp-action="AddAnimal" method="post">
+        <div asp-validation-summary="All" class="alert alert-danger"></div>
+
+        <div class="form-group mb-4">
+            <label asp-for="Name" class="form-label">
+                <i class="fas fa-paw me-2"></i>Animal Name
+            </label>
+            <input asp-for="Name" class="form-control border-primary" placeholder="Enter animal name" />
+        </div>
+
+        <div class="form-group mb-4">
+            <label class="form-label">
+                <i class="fas fa-hourglass-half me-2"></i>LifeSpan
+            </label>
+            <select class="form-select border-primary" asp-for="LifeSpan">
+                <option value="" selected>Choose LifeSpan</option>
+                <option>30 to 50 years</option>
+                <option>40 to 60 years</option>
+                <option>20 to 35 years</option>
+            </select>
+        </div>
+
+        <div class="form-group mb-4">
+            <label asp-for="Price" class="form-label">
+                <i class="fas fa-money-bill me-2"></i>Price
+            </label>
+            <input asp-for="Price" class="form-control border-primary" placeholder="Enter price in ZAR" />
+        </div>
+
+        <div class="form-group mb-4">
+            <label asp-for="Description" class="form-label">
+                <i class="fas fa-info-circle me-2"></i>Description
+            </label>
+            <textarea rows="4" asp-for="Description" class="form-control border-primary" placeholder="Provide a brief description"></textarea>
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-lg btn-primary px-5 py-2 shadow">
+                <i class="fas fa-save me-2"></i>Submit
+            </button>
+        </div>
+    </form>
+</div>
+
+<style>
+    .form-control, .form-select {
+        padding: 10px;
+        font-size: 1.1rem;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #004085;
+    }
+
+    .shadow-lg {
+        box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+    }
+
+    .container {
+        max-width: 600px;
+    }
+
+    .form-label {
+        font-weight: 600;
+        font-size: 1.1rem;
+    }
+
+    i {
+        color: #007bff;
+    }
+</style>
+

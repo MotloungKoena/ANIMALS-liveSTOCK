@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - LiveSTOCK</title>
+
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <link href="~/lib/font-awesome/css/all.min.css" rel="stylesheet" />
+
+    <link href="~/css/custom.css" rel="stylesheet" />
+
+    <link rel="icon" type="image/x-icon" href="~/favicon.ico">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-sm bg-info navbar-dark shadow-lg">
+        <div class="container">
+            <a class="navbar-brand font-weight-bold" asp-controller="Home" asp-action="Index">
+                LiveSTOCK
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#MyNavbar" aria-controls="MyNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="MyNavbar">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Animals
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" asp-controller="Home" asp-action="AddAnimal">Add Animal</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-controller="Home" asp-action="Contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container my-5">
+        @RenderBody()
+    </div>
+
+    <footer class="bg-info text-light text-center p-4 mt-5">
+        <div class="container">
+            <p>
+                <a href="https://github.com/MotloungKoena" class="text-light me-3" target="_blank">
+                    <i class="fab fa-github fa-lg"></i>
+                </a>
+
+                <a href="https://www.linkedin.com/in/koena-motloung-4a83a9258" class="text-light me-3" target="_blank">
+                    <i class="fab fa-linkedin fa-lg"></i>
+                </a>
+
+            </p>
+            <p>Created by: KE. Motloung (2019476593@ufs4life.ac.za)</p>
+            <p><span class="fas fa-copyright"></span> 2024</p>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/jquery.slim.min.js"></script>
+    <script src="~/lib/popper.js/popper.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+</html>
